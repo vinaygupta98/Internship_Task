@@ -2,6 +2,7 @@ phase I code is in index.js
 to run use node index.js (node js)
  
 Phase II code is in Main.js
+npm install to install express
 to run node main.js (express)
 
 Phase III cods is in index.html
